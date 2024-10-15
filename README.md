@@ -17,9 +17,7 @@
 
 <p align="left"> <a href="https://twitter.com/elvinpanakkal" target="blank"><img src="https://img.shields.io/twitter/follow/elvinpanakkal?logo=twitter&style=for-the-badge" alt="elvinpanakkal" /></a> </p>
 
-- 🔭 I’m currently working on **web development**
-
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **python** and **java**
 
 - 🤝 I’m looking for help with **data analytics**
 
