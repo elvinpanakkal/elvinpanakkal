@@ -15,7 +15,7 @@
 <h3 align="center">im a rookie programmer</h3>
 
 
-<p align="left"> <a href="https://twitter.com/elvinpanakkal" target="blank"><img src="https://img.shields.io/twitter/follow/elvinpanakkal?logo=twitter&style=for-the-badge" alt="elvinpanakkal" /></a> </p>
+
 
 - 🌱 I’m currently learning **python** and **java**
 
