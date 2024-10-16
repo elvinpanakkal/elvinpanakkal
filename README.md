@@ -1,6 +1,6 @@
 
 <h1 align="center">👋, I'm elvin</h1>
-<h3 align="center">im a rookie programmer</h3>
+
 
 
 
